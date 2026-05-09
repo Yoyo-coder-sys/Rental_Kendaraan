@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
-import Main from "./components/layout/AdminLayout"; import MainLayout from "./components/layout/MainLayout";
+import AdminLayout from "./components/layout/AdminLayout";
+import MainLayout from "./components/layout/MainLayout";
 import LandingPage from "./pages/LandingPage";
 import Vehicles from "./pages/Vehicles";
 import VehicleDetail from "./pages/VehicleDetail";
